@@ -10,7 +10,7 @@
 - must be free!
 - is commonly used in business
 
-# List of 'most popular' and 'best' IDEs for 2019
+# List of 'most popular' and 'best' IDEs for 2019 consolidated
 ### 1. Atom
 Atom is an open-source cross-platform editor from Github that you can use on OS X, Windows or Linux. It features a built-in system that allows you to install new packages or create a custom one yourself. Developers love Atom because it’s free, customizable and because it was created using web technologies (HTML, JavaScript, CSS, and Node.js). One of the biggest advantages of Atom is its active developer community which has created several plugins and themes.
 Atom by Github is the best editor for JavaScript if you are looking for something customizable and easy to use. It has a built-in package manager for installing new packages or start creating your own within this cool tool. Atom comes pre-installed with four UI and eight syntax themes in a variety of colors. The rich and supportive community also creates cool themes for everybody to use so you might find what you’re looking for there. Here are some of the Atom’s best features:
@@ -156,8 +156,49 @@ Python Fiddle, .43
 https://www.infoworld.com/article/3217008/the-most-popular-ides-visual-studio-and-eclipse.html
 
 ## Selection for Review:
-1. Atom
-2. Brackets
-3. Eclipse
+1. Atom - [Atom Download] (https://atom.io/)
+2. Brackets - [Brackets Download] (http://brackets.io/)
+3. Eclipse - [Eclipse Download] (https://www.eclipse.org/)
+
 --> meeting requirements and I have not used them before
 
+## Final Decision
+For the purpose of this course I will use Visual Studio Community Edition.
+[Download Visual Studio](https://dotnet.microsoft.com/download)
+After reviewing the 3 new options above with regards to interface, usability, quick code editing I felt that they did not offer enough incentive or improvement to change from the application I am used to.
+
+**No. 1 Reason why I chose this?**
+*It is a Microsoft product with full support and the most commonly used software in companies, and I am a creature of habit and have been using this application since I first started programming.*
+
+**Positives:**
+- free
+- Microsoft product
+- most common application - Developer Community, most likely used in workplace
+
+**Negatives:**
+- Microsoft product
+- large files to install
+- can be slow at times
+
+
+Make sure the readme has at least:
+A download link of the IDE
+Three positives
+Three negatives
+No.1 Reason why you chose this IDE
+
+Use all of markdowns features. For each of the features below you should have at least one.
+
+1. an image
+2. a url with custom text
+3. a numbered list
+4. a table
+5. a title
+6. bold text
+7. italic text
+8. a non numbered list with subpoints
+9. a qoute
+10. headers
+11. A code block
+12. A task list
+13. An emoji

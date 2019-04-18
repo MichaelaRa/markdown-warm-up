@@ -137,31 +137,30 @@ Note: Downloaded it for review and only 30 days free, hence not meeting requirem
 ## What is popular in the industry?
 The index is based on an analysis of how often IDEs are searched on in Google, similar to PYPL’s monthly language popularity index. The more searches for an IDE, the more popular it is presumed to be. The 10 most popular IDEs for 2017:
 
-Visual Studio, 22.4 percent
-Eclipse, 20.38
-Android Studio, 9.87
-Vim, 8.02 
-NetBeans, 4.75
-JetBrains IntelliJ, 4.69
-Apple Xcode, 4.35
-Komodo, 4.33
-Sublime Text, 3.94
-Xamarin, 3.46
+* Visual Studio, 22.4 percent
+* Eclipse, 20.38
+* Android Studio, 9.87
+* Vim, 8.02 
+* NetBeans, 4.75
+* JetBrains IntelliJ, 4.69
+* Apple Xcode, 4.35
+* Komodo, 4.33
+* Sublime Text, 3.94
+* Xamarin, 3.46
 In 11th place was Microsoft’s open source, cross-platform development environment, Visual Studio Code, with a 2.86 percent share. Visual Studio Code reached a 1.0 release only 16 months ago.
 
 PYPL also looked at the popularity of online development environments, using the same ranking criteria as the desktop variety. The top two lead the field by a huge margin. Cloud9 took the top spot with a 35.77 percent share, closely followed by JSFiddle with 31.42 percent. The top 10:
-
-Cloud9, 35.77 percent
-JSFiddle, 31.42
-Koding, 9.05
-Ideone, 5.93
-Codio, 5.92
-Codeanywhere, 4.99
-Pythonanywhere, 2.53
-Codenvy, 1.67
-Codiad, .58
-Python Fiddle, .43
-https://www.infoworld.com/article/3217008/the-most-popular-ides-visual-studio-and-eclipse.html
+* Cloud9, 35.77 percent
+* JSFiddle, 31.42
+* Koding, 9.05
+* Ideone, 5.93
+* Codio, 5.92
+* Codeanywhere, 4.99
+* Pythonanywhere, 2.53
+* Codenvy, 1.67
+* Codiad, .58
+* Python Fiddle, .43
+Source: https://www.infoworld.com/article/3217008/the-most-popular-ides-visual-studio-and-eclipse.html
 
 ## Selection for Review:
 1. [Atom](https://atom.io)
@@ -195,7 +194,7 @@ most common application in workplace | can be slow at times
 - [x] Must be free!
 - [x] Is commonly used in business
 
-###Testimonial:
+### Testimonial:
 >Visual Studio is what developers buy when they grow up, get serious and don’t mind that other developers know they’re using Microsoft.
 
 

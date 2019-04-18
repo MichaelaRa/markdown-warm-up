@@ -1,5 +1,4 @@
-# markdown-warm-up
-Website review exercise
+#### markdown-warm-up - Website review exercise
 
 # Website reviewed:  (http://www.007museum.com/)
 
@@ -15,7 +14,7 @@ The content of this page requires a thorough review, categorisation and prioriti
 If there was a page relating to the various **movies** for example, a next step would be to **group content** pertaining to a specific movie by either creating subpages and content, or by grouping the content visually through location or colour or both.
 Laws of vicinity and similarity can group content and guide the user to specific topics.
 
-If this page is designed to drive visitor traffic to the museum then the page needs to provide all information any business would require for their customers to know to make a visit as easy as possible, from location information that links to google maps or similar applications to opening times, access fees, permanent vs. temporary exhibitions, and potentially even other interesting attractions in the area to round up a visit.
+If this page is designed to drive visitor traffic to the museum then the page needs to provide all **visitor information** any business would require for their customers to know to make a visit as easy as possible, from location information that links to google maps or similar applications to opening times, access fees, permanent vs. temporary exhibitions, and potentially even other interesting attractions in the area to round up a visit.
 
 ### In Summary:
 * Layout

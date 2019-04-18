@@ -1,9 +1,6 @@
 #### markdown-warm-up - Website review exercise
 
 # Website reviewed:  (http://www.007museum.com/)
-![alt text](https://github.com/MichaelaRa/markdown-warm-up/blob/master/JamesBond1.PNG "James Bond Museum Website")
-![alt text](https://github.com/MichaelaRa/markdown-warm-up/blob/master/JamesBond2.PNG "James Bond Museum Website")
-
 
 ## Purpose
 The site is used to accompany and advertise a museum in Norway for the James Bond character from Ian Fleming's books and the following movies.
@@ -24,3 +21,8 @@ If this page is designed to drive visitor traffic to the museum then the page ne
 * Colour
 * Structure
 * Guidance for visitors
+
+#### Some sample Screenshots from the page retrieved on 18 April 2019:
+![alt text](https://github.com/MichaelaRa/markdown-warm-up/blob/master/JamesBond3.PNG "James Bond Museum Website")
+![alt text](https://github.com/MichaelaRa/markdown-warm-up/blob/master/JamesBond1.PNG "James Bond Museum Website")
+![alt text](https://github.com/MichaelaRa/markdown-warm-up/blob/master/JamesBond2.PNG "James Bond Museum Website")

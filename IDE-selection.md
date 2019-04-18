@@ -173,7 +173,7 @@ https://www.infoworld.com/article/3217008/the-most-popular-ides-visual-studio-an
 ## Final Decision
 For the purpose of this course I will use Visual Studio Community Edition.
 [Download Visual Studio](https://dotnet.microsoft.com/download)
-After reviewing the 3 new options above with regards to interface, usability, quick code editing I felt that they did not offer enough incentive or improvement to change from the application I am used to.
+After reviewing the 3 new options above with regards to interface, usability, quick code editing I felt that they did not offer enough incentive or improvement to change from the application I am used to. :smirk:
 
 **No. 1 Reason why I chose this?**
 *It is a Microsoft product with full support and the most commonly used software in companies, and I am a creature of habit and have been using this application since I first started programming.*
@@ -182,26 +182,21 @@ Positives: | Negatives:
 ------------ | -------------
 free | large files to install
 Microsoft product  | Microsoft product
-most common application - Developer Community, most likely used in workplace | can be slow at times
+most common application workplace | can be slow at times
 
-Make sure the readme has at least:
-A download link of the IDE
-Three positives
-Three negatives
-No.1 Reason why you chose this IDE
+#Are our Requirements met?
+- [x] Environment - what other applications are we using? 
+- [x] What programming languages are we using? HTML, CSS, JS
+- [x] Collaboration on code and projects enabled
+- [ ] Easy on the eye
+- [x] Support for other languages or applications used in future projects (C#, Java)
+- [x] Previously used IDEs
+- [x] Must be free!
+- [x] Is commonly used in business
 
-Use all of markdowns features. For each of the features below you should have at least one.
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Visual Studio 2017")
 
-1. an image
-2. a url with custom text
-3. a numbered list
-4. a table
-5. a title
-6. bold text
-7. italic text
-8. a non numbered list with subpoints
+
 9. a qoute
-10. headers
 11. A code block
-12. A task list
-13. An emoji
+

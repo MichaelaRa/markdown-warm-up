@@ -164,15 +164,16 @@ Python Fiddle, .43
 https://www.infoworld.com/article/3217008/the-most-popular-ides-visual-studio-and-eclipse.html
 
 ## Selection for Review:
-1. Atom - [Atom Download] (https://atom.io/)
-2. Brackets - [Brackets Download] (http://brackets.io/)
-3. Eclipse - [Eclipse Download] (https://www.eclipse.org/)
+1. Atom - [Atom Download]: https://atom.io
+2. Brackets - [Brackets Download]: http://brackets.io/
+3. Eclipse - [Eclipse Download]: https://www.eclipse.org/
 
 --> meeting requirements and I have not used them before
 
 ## Final Decision
 For the purpose of this course I will use Visual Studio Community Edition.
 [Download Visual Studio](https://dotnet.microsoft.com/download)
+
 After reviewing the 3 new options above with regards to interface, usability, quick code editing I felt that they did not offer enough incentive or improvement to change from the application I am used to. :smirk:
 
 **No. 1 Reason why I chose this?**
@@ -194,9 +195,16 @@ most common application workplace | can be slow at times
 - [x] Must be free!
 - [x] Is commonly used in business
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Visual Studio 2017")
+>Visual Studio is what developers buy when they grow up, get serious and don’t mind that other developers know they’re using Microsoft.
+
+Here is a random piece of code with no other purpose than meeting the requirements for this markdown sheet exercise:
+```javascript
+var s = "JavaScript syntax highlighting";
+alert(s);
+```
 
 
-9. a qoute
-11. A code block
+![alt text](https://github.com/MichaelaRa/markdown-warm-up/blob/master/VS.png "Visual Studio 2017")
+
+
 

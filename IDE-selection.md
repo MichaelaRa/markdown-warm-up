@@ -186,7 +186,7 @@ free | large files to install
 Microsoft product  | Microsoft product
 most common application in workplace | can be slow at times
 
-#Are our Requirements met?
+# Are our Requirements met?
 - [x] Environment - what other applications are we using? 
 - [x] What programming languages are we using? HTML, CSS, JS
 - [x] Collaboration on code and projects enabled

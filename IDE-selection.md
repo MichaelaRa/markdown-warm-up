@@ -43,90 +43,121 @@ Visual Studio Code is possibly the best JavaScript ide for Windows, Mac, and Lin
 
 ### 7. RJ TextEd
 RJ TextEd is high on our list fighting for the spot of the best IDE for JavaScript. It is a full featured text and source editor with Unicode support and all in all, a great IDE for web development. It supports not only JavaScript, but also PHP, ASP, HTML, and CSS. Some of the most important features of this web development IDE include but are not limited to:
-    Auto-completion.
-    Code folding
-    Column mode
-    Multi-edit and multi-select
-    Document map
-    Annotation bar
-    Advanced sorting
-    Handles both ASCII and binary files
-    CSS and HTML wizards
-    Highlighting of colors in CSS/SASS/LESS
-    An advanced color hint that can convert between color formats
-    Dockable panels
-    FTP and SFTP client with synchronization
-    File explorer, text clips, code explorer, project manager
-    Convert between code pages, Unicode formats and text formats
-    Unicode and ANSI code page detection
-    Open/Save UTF-8 encoded files without a signature (BOM)
-    Unicode file paths and file names
-    HTML validation, format, and repair
-    Tools available like syntax editor, color picker, charmap
+-    Auto-completion.
+-    Code folding
+-    Column mode
+-    Multi-edit and multi-select
+-    Document map
+-    Annotation bar
+-    Advanced sorting
+-    Handles both ASCII and binary files
+-    CSS and HTML wizards
+-    Highlighting of colors in CSS/SASS/LESS
+-    An advanced color hint that can convert between color formats
+-    Dockable panels
+-    FTP and SFTP client with synchronization
+-    File explorer, text clips, code explorer, project manager
+-    Convert between code pages, Unicode formats and text formats
+-    Unicode and ANSI code page detection
+-    Open/Save UTF-8 encoded files without a signature (BOM)
+-    Unicode file paths and file names
+-    HTML validation, format, and repair
+-    Tools available like syntax editor, color picker, charmap
 
 ### 8. Light Table
 Light Table is a reactive work surface for the creation and exploration of apps or programs. It’s a quite unique web development IDE based on a simple idea that people need a real work surface to code on rather than just using an editor. With Light Table, you can move things around, keep clutter down, bring information to the places you need it most etc. In addition to that, Light Table is a standalone app and you can run it just like any other editor you have been using so far. Here are the guiding principles of this cool web development IDE:
-    You don’t have to look for documentation
-    Files are not the best representation of code, just a convenient serialization
-    Editors can be anywhere and show you anything – not just text
-    Trying is encouraged – changes produce instantaneous results
-    We can shine some light on related bits of code
+-    You don’t have to look for documentation
+-    Files are not the best representation of code, just a convenient serialization
+-    Editors can be anywhere and show you anything – not just text
+-    Trying is encouraged – changes produce instantaneous results
+-    We can shine some light on related bits of code
 
 ### 9. NetBeans
 NetBeans is high on the list for the best web development IDE because it is easy to use and it lets you develop cool desktop, mobile, and web apps in no time. It works equally as good with JavaScript, HTML5, PHP, C/C++ etc. It is a free JavaScript IDE and a great HTML5 IDE for your day-to-day use. This web development IDE comes with cool code analyzing and editing tools compatible with the latest Java 8 technologies. This makes NetBeans 8.1 one of the best if not the best JavaScript editor. It is also a great AngularJS IDE as well as a fantastic tool for working with Node.js, Knockout.js etc. In addition to all that, it is available in a variety of languages including English, Brazilian Portuguese, Japanese, Russian, and Simplified Chinese. As mentioned earlier, NetBeans supports a wide range of programming languages, but if you want the coolest web development IDE for your projects, we recommend downloading the HTML5/JavaScript built installation from the download page.
 
 ### 10.Komodo Edit
 Komodo Edit is the free and Open-Source counterpart of Komodo IDE (paid software). It is a great JavaScript IDE free of charge with a bunch of new integrations that will allow you to get your favorite frameworks, languages, and tools in one cross-platform web development IDE. While there is a paid version of this JS IDE, you will get a bunch of cool features with the JavaScript editor free version as well. Here are some of them:
-    Customizable UI including split view and multi-window editing
-    Version control integration for Bazaar, CVS, Git, Mercurial, Perforce and Subversion
-    Python and PHP code profiling
-    Convenient code collaboration for multi-user editing
-    Deploy to the cloud thanks to Stackato PaaS
-    Graphical debugging for NodeJS, Perl, PHP, Python, Ruby, and Tcl
-    Autocomplete and refactoring
-    Consistent performance across Mac, Linux and Windows platforms
-    Many add-ons allow a high level of customization
+-    Customizable UI including split view and multi-window editing
+-    Version control integration for Bazaar, CVS, Git, Mercurial, Perforce and Subversion
+-    Python and PHP code profiling
+-    Convenient code collaboration for multi-user editing
+-    Deploy to the cloud thanks to Stackato PaaS
+-    Graphical debugging for NodeJS, Perl, PHP, Python, Ruby, and Tcl
+-    Autocomplete and refactoring
+-    Consistent performance across Mac, Linux and Windows platforms
+-    Many add-ons allow a high level of customization
 However, we have to mention that there have been some complaints about the free version not enabling all of the features.
 
 ### 11. SUBLIME TEXT 3
 Sublime is a top IDE and one of the best JavaScript editors available for free. It is currently available on Windows, Mac, and Linux. It is fast and flexible and it will do everything one should expect from the best IDE for website development.
 
-## 12. IntelliJ IDEA
+### 12. IntelliJ IDEA
 IntelliJ IDEA is a great web development IDE that offers several plans. There is a free community version but if you want to take advantage of all the Java Script development tools it has to offer, you should consider checking out the paid-for Ultimate Edition. It might actually be worth your while. IntelliJ IDEA is a great CSS IDE, but it also supports a wide variety of programming languages such as AngularJS, CoffeeScript, HTML, JS, LESS, Node JS, PHP, Python, Ruby, Sass, TypeScript, and more. The most important features include:
-    Extensive database editor and UML designer
-    Supports multiple build systems
-    Test runner UI
-    Code coverage
-    Git integration
-    Supports Google App Engine, Grails, GWT, Hibernate, Java EE, OSGi, Play, Spring, Struts, and more
-    Deployment and debugging tools for most application servers
-    Intelligent text editors for HTML, CSS, and Java
-    Integrated version control
-    AIR Mobile supports Android and iOS devices
+-    Extensive database editor and UML designer
+-    Supports multiple build systems
+-    Test runner UI
+-    Code coverage
+-    Git integration
+-    Supports Google App Engine, Grails, GWT, Hibernate, Java EE, OSGi, Play, Spring, Struts, and more
+-    Deployment and debugging tools for most application servers
+-    Intelligent text editors for HTML, CSS, and Java
+-    Integrated version control
+-    AIR Mobile supports Android and iOS devices
 However, keep in mind that while it might be the best JS editor, IntelliJ comes with a pretty steep learning curve so it is probably not the best option for absolute beginners.
 
 ### 13. Webstorm
 WebStorm IDE The leading IDE development company, JetBrains, targeted JavaScript with the WebStorm IDE. It is an extremely user-friendly and lightweight IDE that was designed with the aim of creating a state of the art web apps. For that reason, it supports technologies like JavaScript, HTML, and CSS, but also Angular JS, TypeScript, Node.js, Meteor, ECMAScript, React, Vue.js, Cordova, and others. It is the best IDE for modern JavaScript development in terms of client-side, server-side and mobile. WebStorm offers a very modern and slick user interface with many features that will help you with your coding. Some of the features WebStorm can offer are:
-    Compatible with Windows, Linux, and Mac OS
-    Intelligent Code Completion
-    Multi-line todos
-    Automated refactoring of code
-    Debugger
-    Syntax error detection
-    Unit testing
-    Convert to variables with arrow functions
-    Integration with VCS
-    Cross-platform features
-    Powerful navigation
-    Parameter hints
-    Seamless tool integration
-    Git integration
-    Refactoring for JavaScript, TypeScript, and stylesheet languages
+-    Compatible with Windows, Linux, and Mac OS
+-    Intelligent Code Completion
+-    Multi-line todos
+-    Automated refactoring of code
+-    Debugger
+-    Syntax error detection
+-    Unit testing
+-    Convert to variables with arrow functions
+-    Integration with VCS
+-    Cross-platform features
+-    Powerful navigation
+-    Parameter hints
+-    Seamless tool integration
+-    Git integration
+-    Refactoring for JavaScript, TypeScript, and stylesheet languages
 WebStorm also gives you one place within the IDE where you can run Grunt, Gulp, and NPM tasks. It takes advantage of intelligent support and increases your productivity with its automation. Additionally, it has a  cool feature called secret service or Spy.js, where you don’t have logs to trace, debug, and profile. The feature triggers a node.js server into running a proxy that will intercept all browser traffic and enable you to edit a JS file as you go.
-
+Note: Downloaded it for review and only 30 days free, hence not meeting requirements!
 (from https://dzone.com/articles/the-5-most-popular-code-editors-for-2018 and https://tms-outsource.com/blog/posts/web-development-ide/))
 
+## What is popular in the industry?
+The index is based on an analysis of how often IDEs are searched on in Google, similar to PYPL’s monthly language popularity index. The more searches for an IDE, the more popular it is presumed to be. The 10 most popular IDEs for 2017:
 
+Visual Studio, 22.4 percent
+Eclipse, 20.38
+Android Studio, 9.87
+Vim, 8.02 
+NetBeans, 4.75
+JetBrains IntelliJ, 4.69
+Apple Xcode, 4.35
+Komodo, 4.33
+Sublime Text, 3.94
+Xamarin, 3.46
+In 11th place was Microsoft’s open source, cross-platform development environment, Visual Studio Code, with a 2.86 percent share. Visual Studio Code reached a 1.0 release only 16 months ago.
 
+PYPL also looked at the popularity of online development environments, using the same ranking criteria as the desktop variety. The top two lead the field by a huge margin. Cloud9 took the top spot with a 35.77 percent share, closely followed by JSFiddle with 31.42 percent. The top 10:
 
+Cloud9, 35.77 percent
+JSFiddle, 31.42
+Koding, 9.05
+Ideone, 5.93
+Codio, 5.92
+Codeanywhere, 4.99
+Pythonanywhere, 2.53
+Codenvy, 1.67
+Codiad, .58
+Python Fiddle, .43
+https://www.infoworld.com/article/3217008/the-most-popular-ides-visual-studio-and-eclipse.html
+
+## Selection for Review:
+1. Atom
+2. Brackets
+3. Eclipse
+--> meeting requirements and I have not used them before
 

@@ -3,7 +3,7 @@
 # Website reviewed:  (http://www.007museum.com/)
 
 ## Purpose
-The site is used to accompany and advertise a museum in Norway for the James Bond character from Ian Fleming's books and the following movies.
+The site is used to accompany and advertise a museum in Sweden for the James Bond character from Ian Fleming's books and the following movies.
 
 ## Design
 The website is one long collection of items the author may have found interesting, seemingly without prioritised order or categorisation, and without the use of layout options to guide the visitor through the content.

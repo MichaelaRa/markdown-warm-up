@@ -132,6 +132,7 @@ WebStorm IDE The leading IDE development company, JetBrains, targeted JavaScript
 -    Refactoring for JavaScript, TypeScript, and stylesheet languages
 WebStorm also gives you one place within the IDE where you can run Grunt, Gulp, and NPM tasks. It takes advantage of intelligent support and increases your productivity with its automation. Additionally, it has a  cool feature called secret service or Spy.js, where you don’t have logs to trace, debug, and profile. The feature triggers a node.js server into running a proxy that will intercept all browser traffic and enable you to edit a JS file as you go.
 Note: Downloaded it for review and only 30 days free, hence not meeting requirements!
+
 (from https://dzone.com/articles/the-5-most-popular-code-editors-for-2018 and https://tms-outsource.com/blog/posts/web-development-ide/))
 
 ## What is popular in the industry?
@@ -160,6 +161,7 @@ PYPL also looked at the popularity of online development environments, using the
 * Codenvy, 1.67
 * Codiad, .58
 * Python Fiddle, .43
+
 Source: https://www.infoworld.com/article/3217008/the-most-popular-ides-visual-studio-and-eclipse.html
 
 ## Selection for Review:

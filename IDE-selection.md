@@ -1,14 +1,22 @@
 ### Select and Integrated Development Environment for BeCode
 
 # Considerations:
-- environment - what other applications are we using? github, Windows 10
-- what programming languages are we using? HTML, CSS, JS
-- collaboration on code and projects enabled
-- easy on the eye
-- support for other languages or applications used in future projects: C#, Java
-- previously used IDEs: Visual Studio, Cloud9, IntelliJ, Notepad++
-- must be free!
-- is commonly used in business
+
+- Environment - what other applications are we using? 
+    - github
+    - Windows 10
+- What programming languages are we using? 
+    - HTML, CSS, JS
+- Collaboration on code and projects enabled
+- Easy on the eye
+- Support for other languages or applications used in future projects (C#, Java)
+- Previously used IDEs: 
+    - Visual Studio
+    - Cloud9
+    - IntelliJ
+    - Notepad++
+- Must be free!
+- Is commonly used in business
 
 # List of 'most popular' and 'best' IDEs for 2019 consolidated
 ### 1. Atom
@@ -170,16 +178,11 @@ After reviewing the 3 new options above with regards to interface, usability, qu
 **No. 1 Reason why I chose this?**
 *It is a Microsoft product with full support and the most commonly used software in companies, and I am a creature of habit and have been using this application since I first started programming.*
 
-**Positives:**
-- free
-- Microsoft product
-- most common application - Developer Community, most likely used in workplace
-
-**Negatives:**
-- Microsoft product
-- large files to install
-- can be slow at times
-
+Positives: | Negatives:
+------------ | -------------
+free | large files to install
+Microsoft product  | Microsoft product
+most common application - Developer Community, most likely used in workplace | can be slow at times
 
 Make sure the readme has at least:
 A download link of the IDE
